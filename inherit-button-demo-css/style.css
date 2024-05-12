@@ -1,0 +1,11 @@
+#parent {
+  color: #ff0000; /* Set the color for the parent */
+}
+
+#child {
+  color: inherit; /* Inherit the color from the parent */
+}
+
+#button {
+  color: inherit; /* Inherit the color from the parent */
+}
